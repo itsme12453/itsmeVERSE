@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#container-1 {
+    min-height: 100vh;
+    background-image: url(static/image1.jpg);
+    background-size: 110% 110%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* transform: scale(1.5); */
+}
